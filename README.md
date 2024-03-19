@@ -1,10 +1,24 @@
-# Rohit Sharma Performance Index Dashboard
-
-Welcome to the Rohit Sharma Performance Index Dashboard! This dashboard provides a comprehensive analysis of Rohit Sharma's performance in cricket from 2007 to 2021 across different formats: ODI, T20, and TEST.
-
 ## Preview
 
-![Rohit Sharma Performance Index Dashboard Preview](preview.png)
+### Home Page
+![Rohit Sharma Performance Index Dashboard Preview](Screenshot (117).png)
+
+This is the home page of the dashboard where you can get an overview of the available pages and navigate to specific sections.
+
+### Rohit Sharma ODI Performance Index
+![Rohit Sharma ODI Performance Index Dashboard Preview](Screenshot (118).png)
+
+This page displays Rohit Sharma's performance metrics specifically for One Day Internationals (ODIs). You can analyze various statistics such as total runs, boundaries hit, strike rate, and more.
+
+### Rohit Sharma T20 Performance Index
+![Rohit Sharma T20 Performance Index Dashboard Preview](Screenshot (119).png)
+
+Here, you'll find insights into Rohit Sharma's performance in Twenty20 (T20) matches. Similar to the ODI page, it provides detailed metrics for T20 matches, allowing for deeper analysis.
+
+### Rohit Sharma TEST Performance Index
+![Rohit Sharma TEST Performance Index Dashboard Preview](Screenshot (120).png)
+
+This page focuses on Rohit Sharma's performance in Test matches. It offers comprehensive statistics related to his Test career, including runs scored, innings played, and other key metrics.
 
 ## Features
 
@@ -16,14 +30,11 @@ Welcome to the Rohit Sharma Performance Index Dashboard! This dashboard provides
 ## Installation
 
 1. Clone this repository:
-
-2. Open the `Rohit-Sharma-Dashboard.pbix` file using Power BI Desktop.
-
-3. Explore the dashboard and analyze Rohit Sharma's performance data.
-
+   ```bash
+   git clone https://github.com/ViShNu-hub-bot/Rohit-Sharma-Dashboard.git
 ## Dataset
 
-The dataset used for this dashboard was downloaded from Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/deepakdane/rohit-sharma-performance-dataset).
+The dataset used for this dashboard was downloaded from Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/deepakdane/rohit-sharma-performance-dataset). 
 
 ## Feedback
 
