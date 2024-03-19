@@ -1,24 +1,25 @@
 ## Preview
 
 ### Home Page
-![Rohit Sharma Performance Index Dashboard Preview](Screenshot (117).png)
+![Rohit Sharma Performance Index Dashboard Preview](Screenshot%20(117).png)
 
 This is the home page of the dashboard where you can get an overview of the available pages and navigate to specific sections.
 
 ### Rohit Sharma ODI Performance Index
-![Rohit Sharma ODI Performance Index Dashboard Preview](Screenshot (118).png)
+![Rohit Sharma ODI Performance Index Dashboard Preview](Screenshot%20(118).png)
 
 This page displays Rohit Sharma's performance metrics specifically for One Day Internationals (ODIs). You can analyze various statistics such as total runs, boundaries hit, strike rate, and more.
 
 ### Rohit Sharma T20 Performance Index
-![Rohit Sharma T20 Performance Index Dashboard Preview](Screenshot (119).png)
+![Rohit Sharma T20 Performance Index Dashboard Preview](Screenshot%20(119).png)
 
 Here, you'll find insights into Rohit Sharma's performance in Twenty20 (T20) matches. Similar to the ODI page, it provides detailed metrics for T20 matches, allowing for deeper analysis.
 
 ### Rohit Sharma TEST Performance Index
-![Rohit Sharma TEST Performance Index Dashboard Preview](Screenshot (120).png)
+![Rohit Sharma TEST Performance Index Dashboard Preview](Screenshot%20(120).png)
 
 This page focuses on Rohit Sharma's performance in Test matches. It offers comprehensive statistics related to his Test career, including runs scored, innings played, and other key metrics.
+
 
 ## Features
 
